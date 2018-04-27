@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(147, 10, 10);
+    color: #c4c4c7;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-size: 60px;
+  background-color: rgb(73, 71, 71);
+  padding: 20px;
+  font-weight: bold;
+  font-family: nixie one;
+}
+h4, h2 {
+  color: white;
+  margin: 3px;
+  font-family: nixie one;
+}
+button {
+  background-color: red;
+  text-transform: uppercase;
+  border: none;
+  padding: 5px;
+}
+
+article {
+    max-width: 320px;
+    padding: 10px;
+    margin: 5px;
+    display: inline-grid;
+    background-color: #000000;
+    border-radius: 10px;
+}
+
+article img {
+    float: left;
+    margin: 0 10px 10px 0;
+    width: 300px;
+}
